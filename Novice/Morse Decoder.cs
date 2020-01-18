@@ -14,10 +14,10 @@ class MorseCodeDecoder
 {
 	public static string Decode(string morseCode)
 	{
-   string[] morseWords = morseCode.Split(' ');
-   for(int i = 0; i < morseWords.Length;i++) {  
-   morseWords[i] = morseWords[i].Length ==0? "¬" : MorseCode.Get(morseWords[i]);}
-   return string.Join("",morseWords).Replace("¬¬"," ").Replace("¬","").Trim();
+	   string[] morseWords = morseCode.Split(' ');
+	   for(int i = 0; i < morseWords.Length;i++) {  
+	   morseWords[i] = morseWords[i].Length ==0? "¬" : MorseCode.Get(morseWords[i]);}
+	   return string.Join("",morseWords).Replace("¬¬"," ").Replace("¬","").Trim();
 	}
 }
 
