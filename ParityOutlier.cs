@@ -28,6 +28,4 @@ public class Kata
 returns: 11 (the only odd number)
 
 [160, 3, 1719, 19, 11, 13, -21]
-returns: 160 (the only even number)
-
-*/
+returns: 160 (the only even number)*/
