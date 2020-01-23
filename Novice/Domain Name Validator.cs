@@ -6,7 +6,7 @@ Domain name must not be longer than 253 characters (RFC specifies 255, but 2 cha
 Level names must be composed out of lowercase and uppercase ASCII letters, digits and - (minus sign) character
 Level names must not start or end with - (minus sign) character
 Level names must not be longer than 63 characters
-Top level (TLD) must not be fully numerical
+Top level (TLD) must not be fully numerical*/
 
 using System;
 using System.Linq;
