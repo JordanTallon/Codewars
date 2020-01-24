@@ -31,5 +31,3 @@ public class StripCommentsSolution
     }
   
 }
-
-// This challenge was surprisingly easy considering only 245 other people out of 13,229 managed to complete it.
