@@ -2,9 +2,9 @@
 
 <b> Current Completion Count:</b>
 <ul>
-  <li>C# - 26
-  <li>Python - 13
-  <li>SQL - 2
+  <li><b>C#</b> - 26
+  <li><b>Python</b> - 13
+  <li><b>SQL</b> - 2
 </ul>
 
 <img src = "https://www.codewars.com/users/JordanTallon/badges/large">
