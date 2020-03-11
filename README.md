@@ -4,6 +4,7 @@
 <ul>
   <li>C# - 26
   <li>Python - 13
+  <li>SQL - 2
 </ul>
 
 <img src = "https://www.codewars.com/users/JordanTallon/badges/large">
