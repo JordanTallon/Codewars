@@ -1,4 +1,4 @@
-<h3> Portfolio of Codewars.com challenges I have completed </h3>
+<h3> Portfolio of <a href = "https://www.codewars.com/users/JordanTallon">Codewars.com</a> challenges I have completed </h3>
 
 <b> Current Completion Count:</b>
 <ul>
